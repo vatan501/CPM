@@ -1,0 +1,10 @@
+F:\Win10Masaüstü\Ağ Optimizasyonu\HES Kurulum Final Projesi\CPM Şebeke Çizme Programı\CPM Şebeke Çizme Programı\bin\Debug\CPM Şebeke Çizme Programı.exe.config
+F:\Win10Masaüstü\Ağ Optimizasyonu\HES Kurulum Final Projesi\CPM Şebeke Çizme Programı\CPM Şebeke Çizme Programı\bin\Debug\CPM Şebeke Çizme Programı.exe
+F:\Win10Masaüstü\Ağ Optimizasyonu\HES Kurulum Final Projesi\CPM Şebeke Çizme Programı\CPM Şebeke Çizme Programı\bin\Debug\CPM Şebeke Çizme Programı.pdb
+F:\Win10Masaüstü\Ağ Optimizasyonu\HES Kurulum Final Projesi\CPM Şebeke Çizme Programı\CPM Şebeke Çizme Programı\obj\Debug\CPM Şebeke Çizme Programı.csprojAssemblyReference.cache
+F:\Win10Masaüstü\Ağ Optimizasyonu\HES Kurulum Final Projesi\CPM Şebeke Çizme Programı\CPM Şebeke Çizme Programı\obj\Debug\CPM_Şebeke_Çizme_Programı.Form1.resources
+F:\Win10Masaüstü\Ağ Optimizasyonu\HES Kurulum Final Projesi\CPM Şebeke Çizme Programı\CPM Şebeke Çizme Programı\obj\Debug\CPM_Şebeke_Çizme_Programı.Properties.Resources.resources
+F:\Win10Masaüstü\Ağ Optimizasyonu\HES Kurulum Final Projesi\CPM Şebeke Çizme Programı\CPM Şebeke Çizme Programı\obj\Debug\CPM Şebeke Çizme Programı.csproj.GenerateResource.cache
+F:\Win10Masaüstü\Ağ Optimizasyonu\HES Kurulum Final Projesi\CPM Şebeke Çizme Programı\CPM Şebeke Çizme Programı\obj\Debug\CPM Şebeke Çizme Programı.csproj.CoreCompileInputs.cache
+F:\Win10Masaüstü\Ağ Optimizasyonu\HES Kurulum Final Projesi\CPM Şebeke Çizme Programı\CPM Şebeke Çizme Programı\obj\Debug\CPM Şebeke Çizme Programı.exe
+F:\Win10Masaüstü\Ağ Optimizasyonu\HES Kurulum Final Projesi\CPM Şebeke Çizme Programı\CPM Şebeke Çizme Programı\obj\Debug\CPM Şebeke Çizme Programı.pdb
